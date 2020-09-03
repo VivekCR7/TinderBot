@@ -1,2 +1,2 @@
-username = 'vivek.dubey20@hotmail.com'
-password = '8655105415'
+username = 'your username'
+password = 'your password'
